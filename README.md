@@ -1,4 +1,4 @@
-## Hi there 👋 I am Elizabeth! 
+## Hi there 👋 I am Elizabeth! I am currently 24 years old. 
 
 - 🌱 I’m currently learning software engineering at TripleTen online coding bootcamp.
 - 📫 How to reach me: efrawley0713@gmail.com
