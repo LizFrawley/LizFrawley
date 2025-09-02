@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lizfrawley" alt="lizfrawley" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently attending Maestro College to obtain my AAS in AI Engineering.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LizFrawley?tab=repositories](https://github.com/LizFrawley?tab=repositories)
 
