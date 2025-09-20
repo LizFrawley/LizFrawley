@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **efrawley0713@gmail.com**
 
-- ⚡ Fun fact **I taught myself to read when I was 2 1/2 years old.**
+- ⚡ Fun fact **I am also learning ethical hacking in my free time from various resources.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
